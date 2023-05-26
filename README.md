@@ -28,3 +28,13 @@ This game provides an enjoyable way to learn and practice Java programming. It h
 - Right cross points: If Player 1 has placed his symbols on three consecutive positions along a diagonal from top left to bottom right (and these positions do not include the starting points of a diagonal in this direction), then he earns a point.
 
 - Left cross points: If Player 1 has placed his symbols on three consecutive positions along a diagonal from bottom left to top right, then he earns a point.
+
+## Game Example (6x6 board) (Beginning + Point Calculation):
+<ImageGroup>
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/TripleTGame-ruleBased-AI/master/1.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/TripleTGame-ruleBased-AI/master/2.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/TripleTGame-ruleBased-AI/master/3.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/TripleTGame-ruleBased-AI/master/4.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/TripleTGame-ruleBased-AI/master/5.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/TripleTGame-ruleBased-AI/master/6.png" />
+</ImageGroup>
